@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "cypress": "^13.6.6",
+    "eslint-plugin-cypress": "^2.15.1",
     "react-scripts": "0.9.0"
   },
   "dependencies": {
